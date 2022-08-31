@@ -22,7 +22,7 @@
 <b>
 - <img src="https://media1.giphy.com/media/hUA5JLuHW7kTDQMy7f/200w.webp?cid=ecf05e476fkqdshkucz5nfmywkwl77u5tyf61dlzf3x6n4z9&rid=200w.webp&ct=g" width=35px > I'm a final year student at VIT Bhopal in Computer Science with specialization in Cyber-Security & Digital Forensics.
 - <img src="https://media1.giphy.com/media/RDZo7znAdn2u7sAcWH/200w.webp?cid=ecf05e47vkstza47k07seyhrujxmkksotr283imllo4y718n&rid=200w.webp&ct=g" width=40px > I'm currently working on cyber-security projects.
-- <img src="https://media2.giphy.com/media/3owyp2SViuDIGh8YoM/200w.webp?cid=ecf05e478dtcnhdvf0090b5dk979xn1wnf35slufmud8w8z1&rid=200w.webp&ct=g" width=40px > I'm currently learning DSA / Blockchain.
+- <img src="https://media2.giphy.com/media/3owyp2SViuDIGh8YoM/200w.webp?cid=ecf05e478dtcnhdvf0090b5dk979xn1wnf35slufmud8w8z1&rid=200w.webp&ct=g" width=40px > I'm currently learning DSA / Android development
 - <img src="https://media2.giphy.com/media/AUjBfq5licXwoqo87Z/200w.webp?cid=ecf05e47k8pu3tnknm9gdipm489jxzhtg67x2jz7f9t61zhz&rid=200w.webp&ct=g" width=40px > Looking to collaborate on any open source projects. 
 </b>
 <br>
